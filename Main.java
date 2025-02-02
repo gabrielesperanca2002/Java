@@ -35,7 +35,6 @@ public class Main {
 
         //Casting
 
-
         double resultado = 0.0;
         System.out.println(resultado);
         int resultadoInt = (int) resultado;
